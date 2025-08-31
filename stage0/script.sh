@@ -3,7 +3,7 @@
 # HackBio Stage 0 Biocomputing Assignment
 # Author: Favour Igwezeke
 # GitHub: https://github.com/yanny-alt/hackbio-ngs-internship-2025/tree/main/stage0
-# LinkedIn Video: [YOUR_LINKEDIN_VIDEO_LINK]
+# LinkedIn Video: https://www.linkedin.com/posts/favourokechukwu_github-yanny-althackbio-ngs-internship-activity-7367955790181146625-Vhrw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtkpUMBBR61C42hFdwl407pVRR0Dd0kHns
 
 # PROJECT 1: BASH BASICS
 
